@@ -6,6 +6,8 @@
 * Задачи [семинаров по вероятностям](https://github.com/bdemeshev/probability_pro)
 * [Вероятностная днк](https://github.com/bdemeshev/probability_dna) сборник красивейших задач по теории вероятностей
 * [Углы, вероятности](https://github.com/bdemeshev/angles_probabilities) и случайные проекции. Заметка о том, как найти сумму углов в плоском и сферическом треугольнике с помощью проекции на случайную прямую.
+* Список статей [по статистике](https://github.com/bdemeshev/stat_articles), доступных и полезных студентам 2к бакалавриата.
+* Командная [игра по вероятностям](https://github.com/bdemeshev/probability_team_tour): архив задач.
 
 ## Теория игр
 
@@ -19,6 +21,7 @@
 * [Подборка](https://github.com/bdemeshev/metrics_hse_exams) экзаменов вшэ по эконометрике
 * Задачи [семинаров по метрике](https://github.com/bdemeshev/metrics_pro)
 * Студенческие [туториалы по julia](https://github.com/bdemeshev/julia_metrics_tutorials)
+* Репозиторий [задачника по метрике](https://github.com/bdemeshev/em_pset)
 
 ## Временные ряды
 
@@ -47,4 +50,5 @@
 * Инструкции по [установке R и прочего](https://bdemeshev.github.io/installation/)
 * Пакет [sophisthse](https://github.com/bdemeshev/sophisthse): скачивание данных с sophisthse.
 * Цикл [заметок про R](https://github.com/bdemeshev/r_cycle)
+* Заметки курса [R for finance](https://github.com/bdemeshev/icef_r4finance_2021): весна 2021
 
