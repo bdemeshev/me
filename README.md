@@ -1,6 +1,6 @@
 # Случайные заметки
 
-## Теория вероятностей
+## Теория вероятностей и статистика
 
 * [Подборка](https://github.com/bdemeshev/probability_hse_exams) экзаменов вшэ по теории вероятностей
 * Задачи [семинаров по вероятностям](https://github.com/bdemeshev/probability_pro)
@@ -8,13 +8,14 @@
 * [Углы, вероятности](https://github.com/bdemeshev/angles_probabilities) и случайные проекции. Заметка о том, как найти сумму углов в плоском и сферическом треугольнике с помощью проекции на случайную прямую.
 * Список статей [по статистике](https://github.com/bdemeshev/stat_articles), доступных и полезных студентам 2к бакалавриата.
 * Командная [игра по вероятностям](https://github.com/bdemeshev/probability_team_tour): архив задач.
+* Прикладная статистика в машинном обучении фкн вшэ [сезон осень 2020](https://github.com/bdemeshev/hse_psmo_2020_21)
 
 ## Теория игр
 
 * [Задачник для тигров](https://github.com/bdemeshev/games_pset)
 * [Азбука аукционов](https://github.com/bdemeshev/auction_azbuka/)
 * Четыре лекции по [кооперативной теоии игр](https://github.com/bdemeshev/gt201/raw/master/coop_auction/coop_gt.pdf)
-* [Десять задача](https://github.com/bdemeshev/tigers_lecture_2021-07-02) для тигровой лекции 2021-07-02
+* [Десять задач](https://github.com/bdemeshev/tigers_lecture_2021-07-02) для тигровой лекции 2021-07-02
 
 ## Эконометрика
 
