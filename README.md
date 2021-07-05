@@ -25,9 +25,20 @@
 * Вебинар в Европейском университете СПб по [рядам](https://github.com/bdemeshev/webinar_eusp_forecasting_r_2021_03_13)
 * Вебинар [по рядам](https://github.com/bdemeshev/webinar_forecast_ts_2021) для поступающих в онлайн магу по экономике вшэ
 
+## Линейная алгебра
+ 
+* Линейная алгебра: от идеи к формуле для [курсеры](https://github.com/bdemeshev/coursera_linal)
+
+## Машинное обучение
+
+* Сборник задач [по машинному обучению](https://github.com/bdemeshev/mlearn_pro)
+
 ## Софт
 
 * [rexamsconverter](https://github.com/bdemeshev/rexamsconverter). Дополнительные функции для пакета [rexams](http://www.r-exams.org/). Конвертация в tikz, сбор meta-информации. 
-* [bvarr](https://github.com/bdemeshev/bvarr): немного байесовский VAR. 
+* [bvarr](https://github.com/bdemeshev/bvarr): пакет для байесовских VAR. Сейчас есть более удачные :)
 * [R links](https://github.com/bdemeshev/r_links)
+* Инструкции по [установке R и прочего](https://bdemeshev.github.io/installation/)
+* Пакет [sophisthse](https://github.com/bdemeshev/sophisthse): скачивание данных с sophisthse.
+* Цикл [заметок про R](https://github.com/bdemeshev/r_cycle)
 
