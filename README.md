@@ -11,7 +11,7 @@
 
 * [Задачник для тигров](https://github.com/bdemeshev/games_pset)
 * [Азбука аукционов](https://github.com/bdemeshev/auction_azbuka/)
-* Четыре лекции по [кооперативной теоии игр]()
+* Четыре лекции по [кооперативной теоии игр](https://github.com/bdemeshev/gt201/raw/master/coop_auction/coop_gt.pdf)
 * [Десять задача](https://github.com/bdemeshev/tigers_lecture_2021-07-02) для тигровой лекции 2021-07-02
 
 ## Эконометрика
@@ -32,6 +32,10 @@
 ## Машинное обучение
 
 * Сборник задач [по машинному обучению](https://github.com/bdemeshev/mlearn_pro)
+
+## Стохастический анализ
+
+* [Черновик учебника](https://github.com/bdemeshev/sc_book)
 
 ## Софт
 
