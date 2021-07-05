@@ -41,6 +41,9 @@
 ## Стохастический анализ
 
 * [Черновик учебника](https://github.com/bdemeshev/sc_book)
+* Курс [stochastic calculus](https://github.com/bdemeshev/icef_stocalc_2020_fall) в миэфе: осень 2020
+* Подборка экзаменов магистратуры миэф [стохастический анализ](https://github.com/bdemeshev/sc401/blob/master/matek2_collect/matek2_collection.pdf) + динамическая оптимизация
+* Про теорему [об оставовке мартингала](https://github.com/bdemeshev/sc401/raw/master/stop_theorem/stop_theorem_main.pdf)
 
 ## Софт
 
