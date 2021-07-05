@@ -18,12 +18,14 @@
 
 * [Подборка](https://github.com/bdemeshev/metrics_hse_exams) экзаменов вшэ по эконометрике
 * Задачи [семинаров по метрике](https://github.com/bdemeshev/metrics_pro)
+* Студенческие [туториалы по julia](https://github.com/bdemeshev/julia_metrics_tutorials)
 
 ## Временные ряды
 
 * Задачник по [временным рядам](https://github.com/bdemeshev/ts_pset)
 * Вебинар в Европейском университете СПб по [рядам](https://github.com/bdemeshev/webinar_eusp_forecasting_r_2021_03_13)
 * Вебинар [по рядам](https://github.com/bdemeshev/webinar_forecast_ts_2021) для поступающих в онлайн магу по экономике вшэ
+* Студенческие [туториалы по рядам в питоне](https://github.com/bdemeshev/tssp_tutorials_2020_21)
 
 ## Линейная алгебра
  
