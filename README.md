@@ -23,7 +23,7 @@
 * Студенческие [туториалы по julia](https://github.com/bdemeshev/julia_metrics_tutorials)
 * Репозиторий [задачника по метрике](https://github.com/bdemeshev/em_pset)
 * [Гаусс, Марков и Пифагор](https://github.com/olyagnilova/gauss-markov-pythagoras): курсовая Оли Гниловой
-* Репозиторий метрики вшэ: [сезон 2020-2021](https://github.com/bdemeshev/metrics_hse_2020_21)
+* Курс метрики фэн вшэ: [сезон 2020-2021](https://github.com/bdemeshev/metrics_hse_2020_21)
 
 ## Временные ряды
 
@@ -31,6 +31,7 @@
 * Вебинар в Европейском университете СПб по [рядам](https://github.com/bdemeshev/webinar_eusp_forecasting_r_2021_03_13)
 * Вебинар [по рядам](https://github.com/bdemeshev/webinar_forecast_ts_2021) для поступающих в онлайн магу по экономике вшэ
 * Студенческие [туториалы по рядам в питоне](https://github.com/bdemeshev/tssp_tutorials_2020_21)
+* Курс временных рядов фкн вшэ: [сезон 2020-2021](https://github.com/bdemeshev/tseries_hse_2020_21)
 
 ## Линейная алгебра
  
