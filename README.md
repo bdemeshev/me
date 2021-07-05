@@ -23,6 +23,7 @@
 * Студенческие [туториалы по julia](https://github.com/bdemeshev/julia_metrics_tutorials)
 * Репозиторий [задачника по метрике](https://github.com/bdemeshev/em_pset)
 * [Гаусс, Марков и Пифагор](https://github.com/olyagnilova/gauss-markov-pythagoras): курсовая Оли Гниловой
+* Репозиторий метрики вшэ: [сезон 2020-2021](https://github.com/bdemeshev/metrics_hse_2020_21)
 
 ## Временные ряды
 
