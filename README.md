@@ -25,6 +25,8 @@
 * [Гаусс, Марков и Пифагор](https://github.com/olyagnilova/gauss-markov-pythagoras): курсовая Оли Гниловой
 * Курс метрики фэн вшэ: [сезон 2020-2021](https://github.com/bdemeshev/metrics_hse_2020_21)
 * Эконометрика [для курсеры](https://github.com/bdemeshev/coursera_metrics)
+* Эконометрика для [фкн вшэ финтех](https://github.com/bdemeshev/em611)
+    * Студенческие заметки сезона [осень 2018](https://github.com/bdemeshev/em611/tree/master/2018/notes)
 
 ## Временные ряды
 
