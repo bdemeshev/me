@@ -64,3 +64,8 @@
 * Цикл [заметок про R](https://github.com/bdemeshev/r_cycle)
 * Заметки курса [R for finance](https://github.com/bdemeshev/icef_r4finance_2021): весна 2021
 
+## Видео
+
+* [boris.demeshev](https://www.youtube.com/channel/UCxzTM705lZYs-5N1cgLnkFQ): видео до весны 2020
+* [bb channel](https://www.youtube.com/channel/UCkGRLqByhFqof4CE82amIWA): видео с осени 2020
+
