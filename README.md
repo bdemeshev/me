@@ -38,6 +38,7 @@
 ## Математический анализ
 
 * Идея [заметки о dx](https://github.com/bdemeshev/show_me_dx)
+* Экзамены миэф [по математике для экономистов](https://github.com/bdemeshev/matek_icef/raw/master/matmor_exams/matmor_exams.pdf)
 
 ## Машинное обучение
 
