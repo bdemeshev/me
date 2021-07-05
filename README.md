@@ -22,6 +22,7 @@
 * Задачи [семинаров по метрике](https://github.com/bdemeshev/metrics_pro)
 * Студенческие [туториалы по julia](https://github.com/bdemeshev/julia_metrics_tutorials)
 * Репозиторий [задачника по метрике](https://github.com/bdemeshev/em_pset)
+* [Гаусс, Марков и Пифагор](https://github.com/olyagnilova/gauss-markov-pythagoras): курсовая Оли Гниловой
 
 ## Временные ряды
 
@@ -33,6 +34,10 @@
 ## Линейная алгебра
  
 * Линейная алгебра: от идеи к формуле для [курсеры](https://github.com/bdemeshev/coursera_linal)
+
+## Математический анализ
+
+* Идея [заметки о dx](https://github.com/bdemeshev/show_me_dx)
 
 ## Машинное обучение
 
