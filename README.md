@@ -16,6 +16,11 @@
 * [Азбука аукционов](https://github.com/bdemeshev/auction_azbuka/)
 * Четыре лекции по [кооперативной теоии игр](https://github.com/bdemeshev/gt201/raw/master/coop_auction/coop_gt.pdf)
 * [Десять задач](https://github.com/bdemeshev/tigers_lecture_2021-07-02) для тигровой лекции 2021-07-02
+* Листки семинаров фэн [по теории игр 2011](https://github.com/bdemeshev/gt201/raw/master/gt_seminars/gt11_seminars.pdf)
+* [Названия стратегий](https://github.com/bdemeshev/gt201/raw/master/names_of_strategies/strategies_names.pdf) в повторяющейся дилемме заключенного
+* [Равновесия с верами](https://github.com/bdemeshev/gt201/raw/master/equila/equila.pdf) (SE, WSE, PBE...)
+* Принцип [одноразового отклонения](https://github.com/bdemeshev/gt201/raw/master/osdp/osdp_utf8.pdf)
+* [Вычеркивание стратегий](https://github.com/bdemeshev/gt201/raw/master/elimination/elimination.pdf) в динамических антагонистических играх
 
 ## Эконометрика
 
@@ -46,6 +51,8 @@
 
 * Идея [заметки о dx](https://github.com/bdemeshev/show_me_dx)
 * Экзамены миэф [по математике для экономистов](https://github.com/bdemeshev/matek_icef/raw/master/matmor_exams/matmor_exams.pdf)
+* Методичка [по математике для экономистов](https://github.com/bdemeshev/matek_icef/raw/master/mor_posobie/mor_posobie.pdf)
+* Подборка вступительных [на фэн вшэ](https://github.com/bdemeshev/premaster_hse/raw/master/premaster_exam_collection/premaster_exam_collection.pdf)
 
 ## Машинное обучение
 
