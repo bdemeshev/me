@@ -81,3 +81,10 @@
 * [boris.demeshev](https://www.youtube.com/channel/UCxzTM705lZYs-5N1cgLnkFQ): видео до весны 2020
 * [bb channel](https://www.youtube.com/channel/UCkGRLqByhFqof4CE82amIWA): видео с осени 2020
 
+## Онлайн-курсы
+
+* [Эконометрика](https://ru.coursera.org/learn/ekonometrika) на курсере
+* [Эконометрика](https://openedu.ru/course/hse/METRIX/) на openedu
+* [Линейная алгебра](https://www.coursera.org/learn/lineinaya-algebra) на курсере
+* Stochastic calculus на курсере (в разработке)
+* Моделирование временных рядов на online.hse.ru (в разработке)
