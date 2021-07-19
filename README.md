@@ -9,6 +9,8 @@
 * Список статей [по статистике](https://github.com/bdemeshev/stat_articles), доступных и полезных студентам 2к бакалавриата.
 * Командная [игра по вероятностям](https://github.com/bdemeshev/probability_team_tour): архив задач.
 * Прикладная статистика в машинном обучении фкн вшэ [сезон осень 2020](https://github.com/bdemeshev/hse_psmo_2020_21)
+* [Expected number](https://github.com/bdemeshev/nsided_die_throws/raw/main/nsided_die_throws.pdf) of n-sided die throws to get k points
+* More [picture writings](https://github.com/bdemeshev/more_picture_writing/raw/main/more_picture_writing.pdf)
 
 ## Теория игр
 
