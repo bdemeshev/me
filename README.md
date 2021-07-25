@@ -11,6 +11,7 @@
 * Прикладная статистика в машинном обучении фкн вшэ [сезон осень 2020](https://github.com/bdemeshev/hse_psmo_2020_21)
 * [Expected number](https://github.com/bdemeshev/nsided_die_throws/raw/main/nsided_die_throws.pdf) of n-sided die throws to get k points
 * More [picture writings](https://github.com/bdemeshev/more_picture_writing/raw/main/more_picture_writing.pdf)
+* Старая [версия задачника](https://github.com/bdemeshev/pr201/raw/master/probab_pset/new_el.pdf). 
 
 ## Теория игр
 
@@ -90,3 +91,7 @@
 * [Линейная алгебра](https://www.coursera.org/learn/lineinaya-algebra) на курсере
 * Stochastic calculus на курсере (в разработке)
 * Моделирование временных рядов на online.hse.ru (в разработке)
+
+## Если нашлись опечатки...
+
+* Лучший способ — кликнуть кнопочку issues слева вверху соответствующего репозитория и написать, где и в чём ошибка :)
