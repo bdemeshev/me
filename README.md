@@ -12,6 +12,10 @@
 * [Expected number](https://github.com/bdemeshev/nsided_die_throws/raw/main/nsided_die_throws.pdf) of n-sided die throws to get k points
 * More [picture writings](https://github.com/bdemeshev/more_picture_writing/raw/main/more_picture_writing.pdf)
 * Старая [версия задачника](https://github.com/bdemeshev/pr201/raw/master/probab_pset/new_el.pdf). 
+* [CUPED: statistician viewpoint](https://github.com/bdemeshev/cuped_statistician_viewpoint): CUPED as two step regression procedure.
+* [Картинки по теории вероятностей](https://github.com/bdemeshev/probability_pictures)
+* [Карта теории вероятностей](https://github.com/bdemeshev/probability_map) 
+* [Таксономия теории вероятностей](https://github.com/bdemeshev/statistics_taxonomy/)
 
 ## Теория игр
 
@@ -95,3 +99,7 @@
 ## Если нашлись опечатки...
 
 * Лучший способ — кликнуть кнопочку issues слева вверху соответствующего репозитория и написать, где и в чём ошибка :)
+
+## CV
+
+* CV [русский](https://github.com/bdemeshev/cv/raw/master/demeshev_cv_rus.pdf), [english](https://github.com/bdemeshev/cv/raw/master/demeshev_cv_eng.pdf)
